@@ -6,6 +6,6 @@
     "/activate DE" : "{base_url}DE",
     "/activate DMP" : "{base_url}DMP",
     "/activate MLI" : "{base_url}MLI",
-    "/activate DMP" : "{base_url}ACA"
+    "/activate ACA" : "{base_url}ACA"
   }
 }
