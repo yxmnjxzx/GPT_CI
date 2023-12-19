@@ -9,5 +9,6 @@
     "/activate ACA" : "{base_url}ACA",
     "/activate AutoEx" : "{base_url}AutoEx",
     "/activate AutoExpert" : "{base_url}AutoExpert"
-  }
+  },
+  "default": "/activate AutoEx"
 }
