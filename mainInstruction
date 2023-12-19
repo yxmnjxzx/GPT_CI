@@ -7,6 +7,7 @@
     "/activate DMP" : "{base_url}DMP",
     "/activate MLI" : "{base_url}MLI",
     "/activate ACA" : "{base_url}ACA",
+    "/activate AutoEx" : "{base_url}AutoEx",
     "/activate AutoExpert" : "{base_url}AutoExpert"
   }
 }
